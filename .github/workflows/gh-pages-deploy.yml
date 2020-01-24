@@ -1,0 +1,22 @@
+name: Push to GitHub Pages on push to master
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v1
+
+      - name: Deploy the site
+        uses: EndGameStudio/www-explorozcos-com@master
+        env:
+          HUGO_VERSION: 0.57.2
+          TARGET_REPO: EndGameStudio/www-explorozcos-com.github.io
+          TOKEN: ${{ secrets.TOKEN }}
+          HUGO_ARGS: '-t academic'
+          CNAME: www-explorozcos-com.github.io
