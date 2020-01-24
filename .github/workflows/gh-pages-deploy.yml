@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v2.0.0
 
       - name: Deploy the site
-        uses: EndGameStudio/www-explorozcos-com@master
+        uses: benmatselby/hugo-deploy-gh-pages@master
         env:
           HUGO_VERSION: 0.57.2
           TARGET_REPO: EndGameStudio/www-explorozcos-com.github.io
