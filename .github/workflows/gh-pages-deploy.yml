@@ -17,5 +17,4 @@ jobs:
           HUGO_VERSION: 0.60.1
           TARGET_REPO: EndGameStudio/www-explorozcos-com.github.io
           TOKEN: ${{ secrets.TOKEN }}
-          HUGO_ARGS: '-t academic'
           CNAME: www-explorozcos-com.github.io
