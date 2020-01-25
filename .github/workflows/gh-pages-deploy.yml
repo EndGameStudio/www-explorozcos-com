@@ -16,5 +16,6 @@ jobs:
         env:
           HUGO_VERSION: 0.60.1
           TARGET_REPO: EndGameStudio/www-explorozcos-com.github.io
+          HUGO_ARGS: '-t novela'
           TOKEN: ${{ secrets.TOKEN }}
           CNAME: www-explorozcos-com.github.io
