@@ -22,7 +22,7 @@ jobs:
       - name: Build
         run: |
           hugo --theme=novela
-          echo explorozcos.com > CNAME
+          echo explorozcos.com > ./public/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v2
