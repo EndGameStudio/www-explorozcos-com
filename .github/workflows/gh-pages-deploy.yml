@@ -36,6 +36,6 @@ jobs:
         # with:
         #   emptyCommits: false
         env:
-          PERSONAL_TOKEN: ${{ secrets.DEPLOYIT }}
+          ACTIONS_DEPLOY_KEY: ${{ secrets.DEPLOYIT }}
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: ./public
