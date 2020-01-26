@@ -1,7 +1,6 @@
 name: Push to GitHub Pages on push to master
 
-on:
-  push
+on: push
 
 jobs:
   build:
@@ -14,11 +13,12 @@ jobs:
       - name: Checkout submodules
         run: |
           git submodule sync && git submodule update --init
+
       - name: Deploy the site
         uses: benmatselby/hugo-deploy-gh-pages@master
         env:
           HUGO_VERSION: 0.60.1
           TARGET_REPO: EndGameStudio/www-explorozcos-com.github.io
-          HUGO_ARGS: '-t novela'
+          HUGO_ARGS: "-v -t novela"
           TOKEN: ${{ secrets.TOKEN }}
           CNAME: www-explorozcos-com.github.io
