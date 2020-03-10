@@ -3,7 +3,7 @@ authors = []
 date = 2020-03-10T04:00:00Z
 excerpt = "We are explorers, wonderers, and fun seekers."
 hero = ""
-timeToRead = 1
+timeToRead = 2
 title = "About"
 
 +++
