@@ -50,16 +50,6 @@ At Narative, we’ve been fans of Gatsby from day one, using it to build perform
     </item>
     
     <item>
-      <title>Understanding the Gatsby lifecycle and how it impacts yout developer experience</title>
-      <link>https://example.com/post/2018-04-29-understanding-the-gatsby-lifecycle/</link>
-      <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/2018-04-29-understanding-the-gatsby-lifecycle/</guid>
-      <description>Hello, world! This is a demo post for hugo-theme-novela. Novela is built by the team at Narative, and built for everyone that loves the web.
-At Narative, we’ve been fans of Gatsby from day one, using it to build performant and flexible products for both clients and ourselves. With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.</description>
-    </item>
-    
-    <item>
       <title>Why Narative loves Gatsby and Figma</title>
       <link>https://example.com/post/2018-04-28-building-hoppers-media-centre/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
