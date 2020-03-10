@@ -88,15 +88,6 @@ At Narative, we’ve been fans of Gatsby from day one, using it to build perform
     </item>
     
     <item>
-      <title>A story of why Forestry loves Hugo</title>
-      <link>https://example.com/post/2017-04-27-building-hoppers-media-centre/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/2017-04-27-building-hoppers-media-centre/</guid>
-      <description>To understand why Figma is the best design tool for our company, you have to understand what we do. As a designer, I’ve been crafting digital experiences for the past ten years, having contributed to the growth of companies such as Hopper, Lightspeed, and Breather, among others. Throughout this journey, I’ve had the opportunity to meet the most talented designers, engineers, growth marketers, and build a world-class team to develop startups worldwide.</description>
-    </item>
-    
-    <item>
       <title>Building the new Hopper.com in 2018</title>
       <link>https://example.com/post/2018-04-31-building-the-new-hopper-com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
