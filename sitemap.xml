@@ -28,21 +28,6 @@
   </url>
   
   <url>
-    <loc>https://example.com/post/2019-04-26-building-hoppers-media-centre/</loc>
-    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/authors/thiago-costa/</loc>
-    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/post/2018-04-30-why-we-built-a-company-before-a-product/</loc>
-    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://example.com/post/2018-04-28-building-hoppers-media-centre/</loc>
     <lastmod>2018-04-28T00:00:00+00:00</lastmod>
   </url>
@@ -64,7 +49,7 @@
   </url>
   
   <url>
-    <loc>https://example.com/post/2017-04-31-how-figma-changed-how-we-design/</loc>
+    <loc>https://example.com/authors/thiago-costa/</loc>
   </url>
   
 </urlset>
