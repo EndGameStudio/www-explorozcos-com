@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: contet
+  label: Pages
+  create: documents
+  match: "*"
+  templates:
+  - home
 - type: heading
   label: Content
 - type: document
@@ -16,6 +23,8 @@ sections:
   match: "**/*"
   templates:
   - post
+- type: heading
+  label: Pages
 - type: heading
   label: Data
 - type: document
