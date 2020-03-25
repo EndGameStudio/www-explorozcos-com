@@ -21,7 +21,6 @@ sections:
 - type: document
   path: data/author.toml
   label: Authors
-  match: "**/*"
 upload_dir: explorozcos
 public_path: https://res.cloudinary.com/deo07tbou/image/upload
 front_matter_path: ''
