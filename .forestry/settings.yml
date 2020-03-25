@@ -19,10 +19,10 @@ sections:
 - type: heading
   label: Pages
 - type: directory
-  path: content
+  path: content/homepage
   label: Homepage
   create: documents
-  match: homepage/*
+  match: "**/*"
 - type: directory
   path: content
   label: Pages
