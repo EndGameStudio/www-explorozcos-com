@@ -3,6 +3,9 @@ author = "Juan Orozco"
 date = 2020-03-10T04:00:00Z
 excerpt = "We are explorers, wonderers, and fun seekers."
 title = "About"
+
+caption = "Photo by Joel Holland on Unsplash"
+feature = "https://res.cloudinary.com/deo07tbou/image/upload/v1585108041/explorozcos/joel-holland-RwxJtL-WshE-unsplash_pewcm1.jpg"
 +++
 
 > We are explorers, wonderers, and fun seekers.

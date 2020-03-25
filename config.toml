@@ -1,7 +1,7 @@
 baseurl = "https://explorozcos.com"
 canonifyURLs = false
 defaultContentLanguage = "en-us"
-disableKinds = ["taxonomy", "taxonomyTerm"]
+# disableKinds = ["taxonomy", "taxonomyTerm"]
 enableEmoji = true
 enableRobotsTXT = true
 footnoteReturnLinkContents = "&#8617;"
@@ -11,6 +11,8 @@ rssLimit = 100
 summaryLength = 40
 theme = "axiom"
 title = "ExplOrozcos"
+[taxonomies]
+tag = "tags"
 [languages.en-us]
 languageName = "US English"
 weight = 1
@@ -112,4 +114,4 @@ facebookApp = "FB-DEV"
 facebookPixel = "FB-DEV"
 [params.social]
 [permalinks]
-post = "/:filename"
+post = "/:year/:month/:slug/"

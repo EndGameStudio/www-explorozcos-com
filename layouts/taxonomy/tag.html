@@ -1,0 +1,23 @@
+{{ define "main" }}
+<main>
+  <div class="mt-8 mx-4 md:mx-8">
+    <div class="mx-auto w-full max-w-2xlp">
+      <article class="cdata">
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+
+        <ul>
+          {{ range .Data.Pages }}
+            <li>
+                <small>{{.Date.Format "Monday, January 2, 2006"}}</small>
+                <br />
+                <a href="{{.Permalink}}">{{.Title}}</a>
+            </li>
+          {{ end }}
+        </ul>
+
+      </article>
+    </div>
+  </div>
+</main>
+{{ end }}
