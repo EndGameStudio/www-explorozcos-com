@@ -3,11 +3,11 @@ name = "Juan Orozco"
 uri = "https://explorozcos.com/"
 email = "hi@juanorozco.com"
 # twitter = "example"
-image = "image/author/juan-orozco.jpg"
+image = "images/author/juan-orozco.jpg"
 
 ["Ciri Orozco"]
 name = "Ciri Orozco"
 uri = "https://explorozcos.com/"
 email = "ciriana85@gmail.com"
 # twitter = "example"
-image = "image/author/cirio.jpg"
+image = "images/author/cirio.jpg"
