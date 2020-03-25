@@ -51,3 +51,7 @@ fields:
       file: 
       path: 
   label: Type
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
