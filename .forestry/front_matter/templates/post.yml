@@ -40,10 +40,11 @@ fields:
   label: Author
 - name: type
   type: select
-  default: []
+  default: post
   config:
-    required: false
-    options: []
+    required: true
+    options:
+    - post
     source:
       type: simple
       section: 
