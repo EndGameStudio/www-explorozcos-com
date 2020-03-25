@@ -22,7 +22,7 @@ sections:
   path: content/homepage
   label: Homepage
   create: documents
-  match: "**/*"
+  match: "*"
 - type: directory
   path: content
   label: Pages
