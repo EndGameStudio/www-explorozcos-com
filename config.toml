@@ -1,104 +1,19 @@
-baseurl                 = "https://explorozcos.com"
-title                   = "ExplOrozcos"
-languageCode            = "en-us"
-defaultContentLanguage  = "en-us"
-
-theme = "axiom"
-
+baseurl = "https://explorozcos.com"
 canonifyURLs = false
-rssLimit = 100
-enableEmoji = true
-summaryLength = 40
-enableRobotsTXT = true
-pluralizelisttitles = false
-footnoteReturnLinkContents = "&#8617;"
-
+defaultContentLanguage = "en-us"
 disableKinds = ["taxonomy", "taxonomyTerm"]
-
-[permalinks]
-post = "/:filename"
-
-[params]
-mainSections = ["post"]
-copyrightYear = 2000
-
-[params.brand]
-domain = "example.com"
-email = "info@example.com"
-
-[params.social]
-# facebook = "https://www.facebook.com/user_or_page"
-# github = "https://github.com/user"
-# instagram = "https://instagram.com/user"
-# linkedin = "https://www.linkedin.com/in/user"
-# pinterest = "https://www.pinterest.com/user"
-# stackoverflow = "https://stackoverflow.com/users/user"
-# twitter = "https://twitter.com/user"
-# youtube = "https://www.youtube.com/user"
-# footer = ["twitter", "github", "instagram"]
-
-[params.services]
-analyticsId = "UA-DEV"
-adwordsId = "AW-DEV"
-adsenseId = "CA-PUB-DEV"
-adsenseAdSlotId = "ID-DEV"
-adsenseLazy = false
-adwordsConversionId = "ID-DEV"
-adwordsConversionValue = 0
-facebookApp = "FB-DEV"
-facebookPixel = "FB-DEV"
-disqusUser = "na"
-
-[params.font]
-type = ""
-path = ""
-files = []
-
-[params.image]
-width = "2048"
-height = "1024"
-default = "image/page-default.webp"
-faviconIco = "favicon.ico"
-faviconAlt = "image/brand/favicon.png"
-icon1To1 = "image/brand/icon-1-1.png"
-icon2To1 = "image/brand/icon-2-1.png"
-logo = "svginline"
-
-[params.cdn]
-provider = "local"
-type = "image"
-
-[params.cloudinary]
-host = "https://res.cloudinary.com/deo07tbou/"
-version = ""
-image = "image/upload/"
-raw = "raw/upload/"
-video = "video/upload/"
-
-[params.cloudinary.presets]
-base = "f_auto,q_auto/"
-page = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
-feature = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
-summary = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
-
-[outputs]
-home = ["HTML", "ATOM"]
-section = ["HTML"]
-taxonomy = ["HTML"]
-taxonomyTerm = ["HTML"]
-
-[outputFormats]
-[outputFormats.ATOM]
-name = "ATOM"
-baseName = "feed"
-mediaType = "application/atom+xml"
-
-[mediaTypes]
-[mediaTypes."application/atom+xml"]
-suffixes = ["atom"]
-
-[markup]
-[markup.goldmark]
+enableEmoji = true
+enableRobotsTXT = true
+footnoteReturnLinkContents = "&#8617;"
+languageCode = "en-us"
+pluralizelisttitles = false
+rssLimit = 100
+summaryLength = 40
+theme = "axiom"
+title = "ExplOrozcos"
+[languages.en-us]
+languageName = "US English"
+weight = 1
 [markup.goldmark.extensions]
 definitionList = false
 footnote = true
@@ -107,48 +22,94 @@ strikethrough = false
 table = true
 taskList = false
 typographer = false
-[markup.goldmark.renderer]
-unsafe = true
 [markup.goldmark.parser]
 attribute = false
 autoHeadingID = false
+[markup.goldmark.renderer]
+unsafe = true
 [markup.highlight]
 codeFences = false
 noClasses = false
 tabWidth = 2
-
-[menu]
-[[menu.main]]
-url = "/posts/"
-name = "Posts"
-weight = 1
-
-[[menu.main]]
-url = "/about/"
-name = "About"
-weight = 2
-
-[[menu.mobile]]
-url = "/posts/"
-name = "Posts"
-weight = 1
-
-[[menu.mobile]]
-url = "/about/"
-name = "About"
-weight = 2
-
+[mediaTypes."application/atom+xml"]
+suffixes = ["atom"]
 [[menu.foot]]
-url = "/posts/"
-name = "Posts"
-weight = 1
-
-[[menu.foot]]
-url = "/about/"
 name = "About"
+url = "/about/"
 weight = 2
-
-[languages]
-[languages."en-us"]
+[[menu.foot]]
+name = "Posts"
+url = "/post/"
 weight = 1
-languageName = "US English"
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 2
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 1
+[[menu.mobile]]
+name = "About"
+url = "/about/"
+weight = 2
+[[menu.mobile]]
+name = "Posts"
+url = "/posts/"
+weight = 1
+[outputFormats.ATOM]
+baseName = "feed"
+mediaType = "application/atom+xml"
+name = "ATOM"
+[outputs]
+home = ["HTML", "ATOM"]
+section = ["HTML"]
+taxonomy = ["HTML"]
+taxonomyTerm = ["HTML"]
+[params]
+copyrightYear = 2000
+mainSections = ["post"]
+[params.brand]
+domain = "example.com"
+email = "info@example.com"
+[params.cdn]
+provider = "local"
+type = "image"
+[params.cloudinary]
+host = "https://res.cloudinary.com/deo07tbou/"
+image = "image/upload/"
+raw = "raw/upload/"
+version = ""
+video = "video/upload/"
+[params.cloudinary.presets]
+base = "f_auto,q_auto/"
+feature = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
+page = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
+summary = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
+[params.font]
+files = []
+path = ""
+type = ""
+[params.image]
+default = "image/page-default.webp"
+faviconAlt = "image/brand/favicon.png"
+faviconIco = "favicon.ico"
+height = "1024"
+icon1To1 = "image/brand/icon-1-1.png"
+icon2To1 = "image/brand/icon-2-1.png"
+logo = "svginline"
+width = "2048"
+[params.services]
+adsenseAdSlotId = "ID-DEV"
+adsenseId = "CA-PUB-DEV"
+adsenseLazy = false
+adwordsConversionId = "ID-DEV"
+adwordsConversionValue = 0
+adwordsId = "AW-DEV"
+analyticsId = "UA-DEV"
+disqusUser = "na"
+facebookApp = "FB-DEV"
+facebookPixel = "FB-DEV"
+[params.social]
+[permalinks]
+post = "/:filename"
