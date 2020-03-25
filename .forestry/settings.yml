@@ -20,12 +20,24 @@ sections:
   label: Pages
 - type: directory
   path: content
+  label: Homepage
+  create: documents
+  match: homepage/*
+- type: directory
+  path: content
   label: Pages
-  create: all
+  create: documents
   match: "*"
   templates:
   - page
   - home
+- type: heading
+  label: Tags
+- type: directory
+  path: content/tags
+  label: Tags
+  create: all
+  match: "**/*"
 - type: heading
   label: Data
 - type: document

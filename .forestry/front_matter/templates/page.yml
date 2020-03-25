@@ -17,5 +17,3 @@ fields:
   config:
     required: false
   label: Featured Image Caption
-pages:
-- content/Homepage/index.md
