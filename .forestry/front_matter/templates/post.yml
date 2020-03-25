@@ -16,6 +16,10 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 - name: feature
   type: file
   config:
@@ -51,7 +55,3 @@ fields:
       file: 
       path: 
   label: Type
-- name: tags
-  type: tag_list
-  default: []
-  label: Tags
