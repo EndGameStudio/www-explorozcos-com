@@ -16,14 +16,6 @@ sections:
   match: "**/*"
   templates:
   - post
-- type: heading
-  label: Data
-- type: directory
-  path: config/_default
-  label: Config
-  create: all
-  match: "**/*"
-  new_doc_ext: yaml
 upload_dir: explorozcos
 public_path: https://res.cloudinary.com/deo07tbou/image/upload
 front_matter_path: ''
