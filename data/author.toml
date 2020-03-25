@@ -1,0 +1,13 @@
+["Juan Orozco"]
+name = "Juan Orozco"
+uri = "https://explorozcos.com/"
+email = "hi@juanorozco.com"
+# twitter = "example"
+image = "image/author/juano.jpg"
+
+["Ciri Orozco"]
+name = "Ciri Orozco"
+uri = "https://explorozcos.com/"
+email = "ciriana85@gmail.com"
+# twitter = "example"
+image = "image/author/cirio.jpg"

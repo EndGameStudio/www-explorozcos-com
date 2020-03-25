@@ -4,8 +4,7 @@ date: {{ .Date }}
 hero: /images/hero-3.jpg
 excerpt: "A default excerpt"
 timeToRead: 5
-authors:
-  - Dennis Brotzky
+author: "Juan Orozco"
 draft: true
 ---
 
