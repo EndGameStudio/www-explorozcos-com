@@ -7,11 +7,6 @@ fields:
   config:
     required: false
   label: Title
-- name: excerpt
-  type: text
-  config:
-    required: false
-  label: Excerpt
 - name: date
   type: datetime
   label: Date
@@ -21,22 +16,25 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-- name: timeToRead
-  type: number
-  label: Read Time
-  description: The time it takes to read the post (in minutes)
-  default: 0
-  config:
-    required: true
-    min: 
-    max: 
-    step: 
-- name: hero
+- name: feature
   type: file
   config:
     maxSize: 250
-  label: Hero Image
-- name: authors
-  type: tag_list
-  default: []
-  label: Authors
+  label: Featured Image
+- name: caption
+  type: text
+  config:
+    required: false
+  label: Featured Image Caption
+- name: author
+  type: select
+  default: Juan Orozco
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: authors
+      file: data/author.toml
+      path: 
+  label: Author
