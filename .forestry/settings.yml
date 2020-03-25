@@ -24,6 +24,7 @@ sections:
   create: documents
   match: "*"
   templates:
+  - page
   - home
 - type: heading
   label: Data
