@@ -38,3 +38,15 @@ fields:
       file: data/author.toml
       path: 
   label: Author
+- name: type
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type
