@@ -6,3 +6,15 @@ title = "Masks"
 
 +++
 You received a mask that our little family made.
+
+We hope it served you well.
+
+We can't imagine the difficulty you face but know that you are doing great.
+
+We all owe you a great debt and our eternal thanks.
+
+All our love.
+
+Ciri, Juan, Izzy, Jonas, and Aggie.
+
+> # “Be not afraid of greatness. Some are born great, some achieve greatness, and others have greatness thrust upon them.”
