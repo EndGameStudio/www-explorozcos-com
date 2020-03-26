@@ -13,29 +13,7 @@ We hope it served you well. We can't imagine the difficulty you face but know th
 
 We want to help the kids understand the impact of their efforts. If you wouldn't mind sending us a note with your mask. Please don't feel like you have to - you are appreciated whether you do or not. ❤️
 
-<div class="pd-embed" id="pd_1585250107"></div>
-
-<script type="text/javascript">
-
-  var _polldaddy = \[\] || _polldaddy;
-
-  _polldaddy.push( {
-
-    type: "iframe",
-
-    auto: "1",
-
-    domain: "19654520.survey.fm",
-
-    id: "masks",
-
-    placeholder: "pd_1585250107"
-
-  } );
-
-  (function(d,c,j){if(!document.getElementById(j)){var pd=d.createElement(c),s;pd.id=j;pd.src=('https:'==document.location.protocol)?'[https://polldaddy.com/survey.js](https://polldaddy.com/survey.js "https://polldaddy.com/survey.js")':'[http://i0.poll.fm/survey.js](http://i0.poll.fm/survey.js "http://i0.poll.fm/survey.js")';s=document.getElementsByTagName(c)\[0\];s.parentNode.insertBefore(pd,s);}}(document,'script','pd-embed'));
-
-</script>
+<iframe frameborder="0" width="100%" height="600" scrolling="auto" allowtransparency="true" src="[https://19654520.survey.fm/masks?iframe=1](https://19654520.survey.fm/masks?iframe=1 "https://19654520.survey.fm/masks?iframe=1")"><a href="[https://19654520.survey.fm/masks](https://19654520.survey.fm/masks "https://19654520.survey.fm/masks")">View Survey</a></iframe>
 
 **All our love.**
 
