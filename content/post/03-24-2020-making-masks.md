@@ -1,7 +1,7 @@
 ---
 title: Making Masks
 author: Juan Orozco
-feature: https://res.cloudinary.com/deo07tbou/image/upload/v1585247817/explorozcos/2020-03-making-masks-prototype.jpg
+feature: https://res.cloudinary.com/deo07tbou/image/upload/c_scale,w_800/v1585248215/explorozcos/2020-03-making-masks-prototype.jpg
 tags:
 - covid19
 date: 2020-03-26T00:00:00-04:00
