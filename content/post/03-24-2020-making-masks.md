@@ -6,7 +6,6 @@ tags:
 - covid19
 date: 2020-03-26T04:00:00.000+00:00
 caption: Prototype Mask
-draft: true
 
 ---
 Ciri received the call from Grandma a few days ago. Due to the nationwide shortage, Grandma wanted to help make masks and was checking if we had some tools she could borrow. Grandma ended up having enough equipment and supplies but Ciri decided to jump in and do her part as well.
