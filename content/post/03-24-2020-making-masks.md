@@ -4,22 +4,20 @@ author: Juan Orozco
 feature: https://res.cloudinary.com/deo07tbou/image/upload/c_scale,w_800/v1585248215/explorozcos/2020-03-making-masks-prototype.jpg
 tags:
 - covid19
-date: 2020-03-26T00:00:00-04:00
+date: 2020-03-26T04:00:00.000+00:00
 caption: Prototype Mask
 draft: true
 
 ---
-We try to be a service-oriented family. Our life is full of blessings (or luck, whatever you like) and we try to pay that forward wherever and however we can.
-
-Ciri received a call from grandma about making masks due to the nationwide shortage. Although grandma ended up having enough equipment and supplies, Ciri decided to jump in and do her part.
-
-The kids, with their curiosity that is so beautiful (although sometimes, well, sometimes Mom and Dad just need a break!) asked Mom what she was up to.
-
-![](https://res.cloudinary.com/deo07tbou/image/upload/v1585247240/explorozcos/03-2020-making-masks-setup.jpg)
+Ciri received the call from grandma about making masks (due to the nationwide shortage). Although grandma ended up having enough equipment and supplies, Ciri decided to jump in and do her part.
 
 Quickly, our dining table was overtaken with fabric, scissors, wire, elastic material, sewing machines, a laminator, a Cricut Maker, lots of Apple computing power and coffee.
 
-It has become a family effort: learning to use a sewing machine; learning to cut wire, elastic, and more.
+![](https://res.cloudinary.com/deo07tbou/image/upload/v1585247240/explorozcos/03-2020-making-masks-setup.jpg)
+
+The kids, with their curiosity that is so beautiful (although sometimes, well, _sometimes_ Mom and Dad just need a break!) asked Mom what she was up to.
+
+It quickly became a family effort: learning to use a sewing machine; learning to cut fabric, wire, and elastic; and learning to put it all together.
 
 ![](https://res.cloudinary.com/deo07tbou/image/upload/v1585247070/explorozcos/03-25-2020-mask-making.jpg)
 
