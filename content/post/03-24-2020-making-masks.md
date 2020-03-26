@@ -1,10 +1,11 @@
 ---
 title: Making Masks
 author: Juan Orozco
-feature: https://res.cloudinary.com/deo07tbou/image/upload/v1585247070/explorozcos/03-25-2020-mask-making.jpg
+feature: https://res.cloudinary.com/deo07tbou/image/upload/v1585247817/explorozcos/2020-03-making-masks-prototype.jpg
 tags:
 - covid19
 date: 2020-03-26T00:00:00-04:00
+caption: Prototype Mask
 draft: true
 
 ---
@@ -19,5 +20,7 @@ The kids, with their curiosity that is so beautiful (although sometimes, well, s
 Quickly, our dining table was overtaken with fabric, scissors, wire, elastic material, sewing machines, a laminator, a Cricut Maker, lots of Apple computing power and coffee.
 
 It has become a family effort: learning to use a sewing machine; learning to cut wire, elastic, and more.
+
+![](https://res.cloudinary.com/deo07tbou/image/upload/v1585247070/explorozcos/03-25-2020-mask-making.jpg)
 
 A lot has changed for our way of life and although some of it might go back to normal one day, much of it will not. Yet, the kids, so far, have been robust and curious. Don't get me wrong! It isn't easy! They're still kids with lots of energy and short attention spans. But they're really trying - they care. I can't ask for any better character trait in these kiddos than that.
