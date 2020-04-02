@@ -1,7 +1,7 @@
 ---
 title: Shelter In Place
 author: Juan Orozco
-date: 2020-03-24T04:00:00.000+00:00
+date: 2020-04-01T00:00:00-04:00
 tags:
 - covid19
 
